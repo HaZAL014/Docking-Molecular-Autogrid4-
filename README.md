@@ -95,10 +95,10 @@ __5) ❄  RUN__
   4) RUN
   
   ➊ RunGrid  
-  1]	Ran ➽ RunGrid ➽ [Run AutoGrid]
-			           ⓵   Programe Pathname   ➪ Browse : autogrid4.exe 
-			           ⓶   Parameter Pathname  ➪ Browse : GPF.gpf 
-                                       'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  
+  1]	Ran ➽ RunGrid ➽ [Run AutoGrid]  
+  ⓵   Programe Pathname   ➪ Browse : autogrid4.exe  
+  ⓶   Parameter Pathname  ➪ Browse : GPF.gpf  
+  'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  
 				       
 Launch  
 
