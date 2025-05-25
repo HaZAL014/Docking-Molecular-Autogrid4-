@@ -100,13 +100,14 @@ __5) ❄  RUN__
   ⓶   Parameter Pathname  ➪ Browse : GPF.gpf  
   'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  
 				       
-Launch  
+❄Launch❄  
 
   
-➋ RunDock
-1]	           Ran ➽ RunDock ➽ [Run RunDock]
-		          ⓵   Programe Pathname   ➪ Browse : autodock4.exe 
-		          ⓶   Parameter Pathname  ➪ Browse : DPF.dpf 
-  'Automaticly'      ⓷   Log filename  ➪ Browse : DPF.dlg
-	Launch
+➋ RunDock  
+1]   Ran ➽ RunDock ➽ [Run RunDock]  
+⓵   Programe Pathname   ➪ Browse : autodock4.exe  
+⓶   Parameter Pathname  ➪ Browse : DPF.dpf  
+'Automaticly'      ⓷   Log filename  ➪ Browse : DPF.dlg  
+  
+❄Launch❄
 
