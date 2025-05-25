@@ -11,4 +11,10 @@ Used for preparing ligands and receptors (AutoDockTools)
 
 Version 1.5.7: 
 https://ccsb.scripps.edu/download/262/
-    
+
+2- Autodocksuite
+# siteWEB https://autodock.scripps.edu/
+
+(version -4.2.6)
+https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/autodocksuite-4.2.6.i86Windows.exe
+
