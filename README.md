@@ -48,8 +48,17 @@ https://www.rcsb.org/
 # Exemple  
 ✾ __1LPB@Luteolin__   
     ♦ (PDB ID: 1LPB) human pancreatic lipase; https://www.rcsb.org/structure/1LPB  
-    ♦ Luteolin: https://pubchem.ncbi.nlm.nih.gov/compound/5280445
+    ♦ Luteolin: https://pubchem.ncbi.nlm.nih.gov/compound/5280445  
 
+* Simple Procedure
+
+1) Preparation Receptor
+File ➽ Read Molecule ➽ 6VWW.pdb (open)
+	1]	Edit ➽ Delete Water 
+	2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")  
+	3]	Edit ➽ Charges    ➽ Add Kolman Charges  ("OK")  				
+	4]	Edit ➽ Atoms      ➽ Assing AD4 type  ("OK")  
+File ➽ Save ➽ with PDBQT
 
 
 
