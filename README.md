@@ -90,4 +90,23 @@ __4) ❄ DOCKING__
      4]	Docking ➽ Ouput ➽ Lamarckian GA(4.2)  
      ➽ Save "DPF.dpf" & "SAVE"
 
-__5) ❄  RUN__
+__5) ❄  RUN__  
+
+  4) RUN
+  
+  ➊ RunGrid  
+  1]	Ran ➽ RunGrid ➽ [Run AutoGrid]
+			           ⓵   Programe Pathname   ➪ Browse : autogrid4.exe 
+			           ⓶   Parameter Pathname  ➪ Browse : GPF.gpf 
+                                       'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  
+				       
+Launch  
+
+  
+➋ RunDock
+1]	           Ran ➽ RunDock ➽ [Run RunDock]
+		          ⓵   Programe Pathname   ➪ Browse : autodock4.exe 
+		          ⓶   Parameter Pathname  ➪ Browse : DPF.dpf 
+  'Automaticly'      ⓷   Log filename  ➪ Browse : DPF.dlg
+	Launch
+
