@@ -77,7 +77,7 @@ __3) ❄ GRID__
 ➽ GPF.gpf  "save"
 
 
-__4) ❄DOCKING__  
+__4) ❄ DOCKING__  
 1]	Docking ➽ Macromolecule ➽ set Rigid Filename  
                     ➽ Select "RECEPTOR.pdbqt" & "Open"  
                     ➽ Selecte Ligand & "Select Ligand"  
@@ -90,4 +90,4 @@ __4) ❄DOCKING__
      4]	Docking ➽ Ouput ➽ Lamarckian GA(4.2)  
      ➽ Save "DPF.dpf" & "SAVE"
 
-__5) RUN__
+__5) ❄  RUN__
