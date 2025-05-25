@@ -4,12 +4,11 @@ Below is a list of essential software tools used in our molecular docking and vi
 
 
 1. MGL Tools (Molecular Graphics Laboratory)
-   🔗 Website: https://ccsb.scripps.edu/mgltools/downloads/
-   
+   🔗 Website: https://ccsb.scripps.edu/mgltools/downloads/  
 Version 1.5.7:  https://ccsb.scripps.edu/download/262/  
 
 
-
+  
 2- Autodocksuite 
 🔗 Website:  https://autodock.scripps.edu/
 
