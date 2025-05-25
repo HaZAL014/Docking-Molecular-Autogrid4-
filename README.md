@@ -79,9 +79,9 @@ __3) ❄ GRID__
 
 __4) ❄DOCKING__  
 1]	Docking ➽ Macromolecule ➽ set Rigid Filename  
-➽ Select "RECEPTOR.pdbqt" & "Open"  
-➽ Selecte Ligand & "Select Ligand"  
-[AutoDpf4 Ligand Parametres] & Accept  
+                    ➽ Select "RECEPTOR.pdbqt" & "Open"  
+                    ➽ Selecte Ligand & "Select Ligand"  
+		   [AutoDpf4 Ligand Parametres] & Accept  
   
 2]	Docking ➽ Ligand ➽ Choose
 			 [Choose Ligand]  
