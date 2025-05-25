@@ -55,10 +55,14 @@ https://www.rcsb.org/
 1) Preparation Receptor
 File ➽ Read Molecule ➽ 6VWW.pdb (open)  
 1]	Edit ➽ Delete Water
-2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")
-3]	Edit ➽ Charges    ➽ Add Kolman Charges  ("OK")
-4]	Edit ➽ Atoms      ➽ Assing AD4 type  ("OK")
-				File ➽ Save ➽ with PDBQT
+
+2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")  
+
+3]	Edit ➽ Charges    ➽ Add Kolman Charges  ("OK")  
+
+4]	Edit ➽ Atoms      ➽ Assing AD4 type  ("OK")  
+
+File ➽ Save ➽ with PDBQT
 
 
 
