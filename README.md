@@ -111,9 +111,11 @@ __5) ❄  RUN__
 
 # ADME-Tox Predictions  
   QSPR (Quantitative Structure–Property Relationships)  
-
-
-
+    
+⓵ SwissADME (physicochemical properties, pharmacokinetics, druglikeness and medicinal chemistry friendliness)  
+http://www.swissadme.ch/  
+⓵ ProTox-II - Prediction Of Toxicity Of Chemicals  
+https://tox-new.charite.de/protox_II/index.php?site=home
 
 
 
