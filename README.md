@@ -57,11 +57,8 @@ __1) Preparation Receptor__
 File ➽ Read Molecule ➽ 1LPB.pdb (open)  
 
 1]	Edit ➽ Delete Water
-
 2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")  
-
 3]	Edit ➽ Charges    ➽ Add Kolman Charges  ("OK")  
-
 4]	Edit ➽ Atoms      ➽ Assing AD4 type  ("OK")  
 
 File ➽ Save ➽ with PDBQT
@@ -70,7 +67,6 @@ File ➽ Save ➽ with PDBQT
 
 __2) Preparation ligand__  
 1]	Ligand ➽ Input ➽ Open ➽ Choose the  "Ligand.pdb" ➽ "Open  
-
 2]	Ligand ➽ Torsion tree ➽ Selecte Root  
 3]	Ligand ➽ Torsion tree ➽ Choose Root  
 4]	Ligand ➽ OUTPUT ➽ Save as PDBQT  
