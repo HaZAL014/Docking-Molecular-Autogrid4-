@@ -78,16 +78,15 @@ __3) ❄ GRID__
 
 
 __4) ❄DOCKING__  
-1]	Docking ➽ Macromolecule ➽ set Rigid Filename
-  ➽ Select "RECEPTOR.pdbqt" & "Open"  
-  ➽ Selecte Ligand & "Select Ligand"  
-  [AutoDpf4 Ligand Parametres] & Accept  
-  2]	Docking ➽ Ligand ➽ Choose
-			 [Choose Ligand]
-
-3]	Docking ➽ Search Parametres ➽ Genetic Algorithm
-					[Geniric Ligand Parametres] & Accept
-
-4]	Docking ➽ Ouput ➽ Lamarckian GA(4.2)
-				➽ Save "DPF.dpf" & "SAVE"
+1]	Docking ➽ Macromolecule ➽ set Rigid Filename  
+➽ Select "RECEPTOR.pdbqt" & "Open"  
+➽ Selecte Ligand & "Select Ligand"  
+[AutoDpf4 Ligand Parametres] & Accept  
+  
+2]	Docking ➽ Ligand ➽ Choose
+			 [Choose Ligand]  
+    3]	Docking ➽ Search Parametres ➽ Genetic Algorithm
+					[Geniric Ligand Parametres] & Accept  
+     4]	Docking ➽ Ouput ➽ Lamarckian GA(4.2)  
+     ➽ Save "DPF.dpf" & "SAVE"
 
