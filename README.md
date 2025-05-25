@@ -44,3 +44,11 @@ https://pubchem.ncbi.nlm.nih.gov/
 __2)  RCSB Protein Data Bank (RCSB PDB)__
 https://www.rcsb.org/ 
 
+
+# Exemple  
+✾ 1LPB@Luteolin   
+✾ (PDB ID: 1LPB) human pancreatic lipase
+
+
+
+
