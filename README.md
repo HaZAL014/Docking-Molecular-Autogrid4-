@@ -90,3 +90,4 @@ __4) ❄DOCKING__
      4]	Docking ➽ Ouput ➽ Lamarckian GA(4.2)  
      ➽ Save "DPF.dpf" & "SAVE"
 
+__5) RUN__
