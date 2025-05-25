@@ -68,3 +68,12 @@ File ➽ Save ➽ with PDBQT
 
 
 
+__2) Preparation ligand__  
+1]	Ligand ➽ Input ➽ Open ➽ Choose the  "Ligand.pdb" ➽ "Open  
+
+2]	Ligand ➽ Torsion tree ➽ Selecte Root  
+3]	Ligand ➽ Torsion tree ➽ Choose Root  
+4]	Ligand ➽ OUTPUT ➽ Save as PDBQT  
+File ➽ Save ➽ with PDBQT
+
+
