@@ -110,8 +110,9 @@ __5) ❄  RUN__
 ❄Launch❄  
 
 # ADME-Tox Predictions  
-  QSPR (Quantitative Structure–Property Relationships)
-![image](https://github.com/user-attachments/assets/0dded578-ac02-4a88-a929-b1ed0b42987e)
+  QSPR (Quantitative Structure–Property Relationships)  
+
+
 
 
 
