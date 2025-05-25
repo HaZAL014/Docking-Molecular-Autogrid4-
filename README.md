@@ -51,7 +51,7 @@ https://www.rcsb.org/
     ♦ Luteolin: https://pubchem.ncbi.nlm.nih.gov/compound/5280445  
 
 # Simple procedure
-__1) Preparation Receptor__
+__1) Preparation Receptor__  
    File ➽ Read Molecule ➽ 1LPB.pdb (open)  
 1]	Edit ➽ Delete Water
 2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")  
