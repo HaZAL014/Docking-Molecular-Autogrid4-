@@ -46,8 +46,9 @@ https://www.rcsb.org/
 
 
 # Exemple  
-✾ 1LPB@Luteolin   
-✾ (PDB ID: 1LPB) human pancreatic lipase
+✾ __1LPB@Luteolin__   
+    ♦ (PDB ID: 1LPB) human pancreatic lipase  
+    ♦ Luteolin
 
 
 
