@@ -29,8 +29,15 @@ __5. BIOVIA Discovery Studio Visualizer (Inscription)__
 
 
 
-__6- UCSF Chimera__
+__6. UCSF Chimera__
    🔗 Website: https://www.cgl.ucsf.edu/chimera/  
 (version -1.19-win64): https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=win64/chimera-1.19-win64.exe  
 
+
+__Sublime Text__
+https://www.sublimetext.com/download_thanks?target=win-x64  
+  
+__PubChem__
+https://pubchem.ncbi.nlm.nih.gov/  
+  
 
