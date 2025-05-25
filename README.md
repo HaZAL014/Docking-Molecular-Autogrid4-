@@ -9,6 +9,7 @@ Below is a list of essential software tools used in our molecular docking and vi
 Version 1.5.7:  https://ccsb.scripps.edu/download/262/
 
 
+
 2- Autodocksuite 
 🔗 Website:  https://autodock.scripps.edu/
 
@@ -20,15 +21,18 @@ Version 1.5.7:  https://ccsb.scripps.edu/download/262/
 (version -1.2):  https://sourceforge.net/projects/avogadro/files/avogadro/1.2.0/Avogadro-1.2.0n-win32.exe/download
 
 
+
 4- Open Babel
 🔗 Website: https://github.com/openbabel/openbabel/releases
 
 (version -3.1.1): https://github.com/openbabel/openbabel/releases/download/openbabel-3-1-1/OpenBabel-3.1.1-x64.exe
 
 
+
 5- BIOVIA Discovery Studio Visualizer (Inscription)
 
 🔗 Website: https://discover.3ds.com/discovery-studio-visualizer-download
+
 
 
 6- UCSF Chimera
