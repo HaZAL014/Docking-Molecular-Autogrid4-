@@ -98,8 +98,7 @@ __5) ❄  RUN__
   1]	Ran ➽ RunGrid ➽ [Run AutoGrid]  
   ⓵   Programe Pathname   ➪ Browse : autogrid4.exe  
   ⓶   Parameter Pathname  ➪ Browse : GPF.gpf  
-  'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  
-				       
+  'Automaticly'     ⓷   Log filename  ➪ Browse : GPF.glg  		       
 ❄Launch❄  
 
   
@@ -108,6 +107,5 @@ __5) ❄  RUN__
 ⓵   Programe Pathname   ➪ Browse : autodock4.exe  
 ⓶   Parameter Pathname  ➪ Browse : DPF.dpf  
 'Automaticly'      ⓷   Log filename  ➪ Browse : DPF.dlg  
-  
 ❄Launch❄
 
