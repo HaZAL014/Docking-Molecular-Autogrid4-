@@ -14,7 +14,7 @@ __2. Autodocksuite__
 (version -4.2.6):  https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/autodocksuite-4.2.6.i86Windows.exe  
 
 
-__3. Avogadro
+__3. Avogadro__
    🔗 Website: https://avogadro.cc/  
 (version -1.2):  https://sourceforge.net/projects/avogadro/files/avogadro/1.2.0/Avogadro-1.2.0n-win32.exe/download  
   
