@@ -38,7 +38,7 @@ __Sublime Text__
 https://www.sublimetext.com/download_thanks?target=win-x64  
   
 __SiteWeb__  
-__1)  PubChem (Ligand=molecule)__
+__1)  PubChem (Ligand; molecule)__
 https://pubchem.ncbi.nlm.nih.gov/  
   
 __2)  RCSB Protein Data Bank (RCSB PDB)__
