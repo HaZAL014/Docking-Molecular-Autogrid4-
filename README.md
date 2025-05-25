@@ -53,7 +53,6 @@ https://www.rcsb.org/
 __* Simple procedure__
 
 __1) Preparation Receptor__
-   
    File ➽ Read Molecule ➽ 1LPB.pdb (open)  
 1]	Edit ➽ Delete Water
 2]	Edit ➽ Hydrogens  ➽ Add  ➽ Polar Only ("OK")  
