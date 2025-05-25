@@ -71,9 +71,10 @@ __2) Preparation ligand__
   
 __3) ❄ GRID__  
 1]	Grid ➽ Macromolecule ➽ Choose ➽ [Choose Macromolecule]  
-2]	Grid ➽ Set Map Types ➽ Choose ligand ➽ [Choose Ligand]    	
+2]	Grid ➽ Set Map Types ➽ Choose ligand ➽ [Choose Ligand]  
 3]	Grid ➽ Grid Box  
-	File ➽ Output grid dimension file    							 
+
+  File ➽ Output grid dimension file    							 
 4]	Grid ➽ Output ➽ Save GPF   
   ➽ GPF.gpf  "save"
 
