@@ -17,8 +17,9 @@ Version 1.5.7:  https://ccsb.scripps.edu/download/262/
 
 3- Avogadro
 🔗 Website: https://avogadro.cc/
-(version -1.2):  https://sourceforge.net/projects/avogadro/files/avogadro/1.2.0/Avogadro-1.2.0n-win32.exe/download  
 
+(version -1.2):  https://sourceforge.net/projects/avogadro/files/avogadro/1.2.0/Avogadro-1.2.0n-win32.exe/download  
+  
 
 
 4- Open Babel
