@@ -53,7 +53,8 @@ https://www.rcsb.org/
 * Simple Procedure
 
 1) Preparation Receptor
-File ➽ Read Molecule ➽ 6VWW.pdb (open)
+   
+File ➽ Read Molecule ➽ 1LPB.pdb (open)  
 
 1]	Edit ➽ Delete Water
 
