@@ -50,9 +50,9 @@ https://www.rcsb.org/
     ♦ (PDB ID: 1LPB) human pancreatic lipase; https://www.rcsb.org/structure/1LPB  
     ♦ Luteolin: https://pubchem.ncbi.nlm.nih.gov/compound/5280445  
 
-* Simple Procedure
+__* Simple procedure__
 
-1) Preparation Receptor
+__1) Preparation Receptor__
    
 File ➽ Read Molecule ➽ 1LPB.pdb (open)  
 
