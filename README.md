@@ -123,7 +123,7 @@ __5) ❄  RUN__
 ⓵ SwissADME (physicochemical properties, pharmacokinetics, druglikeness and medicinal chemistry friendliness)  
 http://www.swissadme.ch/  
 
-⓵ ProTox-0.3 - Prediction Of Toxicity Of Chemicals  
+⓵ ProTox-3.0 - Prediction Of Toxicity Of Chemicals  
 https://tox-new.charite.de/protox_II/index.php?site=home
 
 
