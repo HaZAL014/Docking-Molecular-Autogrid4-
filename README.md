@@ -1,3 +1,13 @@
+This repository provides a complete set of tools and resources for conducting in-silico molecular docking studies, from receptor and ligand preparation to docking execution and ADME-Tox predictions.
+
+It includes:  
+🔧 Download links for essential software (MGL Tools, AutoDock, Avogadro, Open Babel, Chimera, etc.)  
+📄 Step-by-step procedure for running docking simulations using AutoDock 4.2  
+🌐 Access to molecular databases (PubChem, RCSB PDB)  
+🧪 ADME-Tox prediction tools for preliminary pharmacokinetic and toxicity evaluation  
+✍️ Practical examples with molecules like 1LPB@Luteolin
+  
+  
 # Required software
 Below is a list of essential software tools used in our molecular docking and visualization workflow. Please download and install the versions provided for optimal compatibility.
 
