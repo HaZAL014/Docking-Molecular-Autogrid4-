@@ -17,7 +17,9 @@ __1. MGL Tools__ (Molecular Graphics Laboratory)
    🔗 Website: https://ccsb.scripps.edu/mgltools/downloads/   
 Version 1.5.7:  https://ccsb.scripps.edu/download/262/  
 
-
+## the two initial files  
+AD4_parameters.dat  
+AD4.1_bound.dat
   
 __2. Autodocksuite__ 
    🔗 Website:  https://autodock.scripps.edu/  
